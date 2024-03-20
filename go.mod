@@ -11,7 +11,7 @@ require (
 	github.com/alecthomas/kong v0.8.1
 	github.com/bufbuild/buf v1.27.2
 	github.com/crossplane/crossplane-runtime v1.16.0-rc.1.0.20240226223305-2c81cc6326e5
-	github.com/docker/docker v25.0.2+incompatible
+	github.com/docker/docker v25.0.5+incompatible
 	github.com/docker/go-connections v0.5.0
 	github.com/emicklei/dot v1.6.1
 	github.com/go-git/go-billy/v5 v5.5.0
@@ -28,7 +28,7 @@ require (
 	golang.org/x/sync v0.6.0
 	google.golang.org/grpc v1.61.0
 	google.golang.org/grpc/cmd/protoc-gen-go-grpc v1.3.0
-	google.golang.org/protobuf v1.31.0
+	google.golang.org/protobuf v1.33.0
 	k8s.io/api v0.29.1
 	k8s.io/apiextensions-apiserver v0.29.1
 	k8s.io/apimachinery v0.29.1
